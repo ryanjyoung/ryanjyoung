@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, all! 👋
+
+I am _Ryan Young_.
 
 <!--
 **ryanjyoung/ryanjyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a former Microbiologist and new software developer. 
+I'm a former Microbiologist and new software developer.
+
+I am currently enrolled in Tech Elevator's full-stack web development bootcamp with the intention to transition my career into software development.
+
+# :postbox: How to reach me:
+
+:e-mail: [Email](mailto:ryanjonathanyoung@gmail.com) | :bust_in_silhouette:[LinkedIn](https://www.linkedin.com/in/ryanjonathanyoung) |
