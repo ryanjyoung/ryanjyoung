@@ -1,26 +1,4 @@
-## Hi, all! 👋
-
-I'm _Ryan_.
-
-<!--
-**ryanjyoung/ryanjyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm a microbiologist turned junior software developer!<br>
-I'm currently honing my skills with the goal of becoming a scientific software developer. <br>
-Always learning and exploring!
-
-## :postbox: How to reach me:
-
-:e-mail: [Email](mailto:ryanjonathanyoung@gmail.com) | :bust_in_silhouette:[LinkedIn](https://www.linkedin.com/in/ryanjonathanyoung) |
+👋 Hi, I’m *Ryan* - Software Developer (C#, Angular) | Former Microbiologist  
+🧠 BS in Microbiology | MS in Biotechnology  
+📍 Cincinnati, OH  
+💼 [LinkedIn](https://www.linkedin.com/in/ryanjonathanyoung)  
